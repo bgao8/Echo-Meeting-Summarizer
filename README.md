@@ -22,7 +22,7 @@ To keep the focus on core functionality, the interface is implemented in a Jupyt
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/echo.git
+   git clone https://github.com/bgao8/Echo-Meeting-Summarizer.git
    cd echo
    
 2. (Recommended) Create and activate a virtual environment:
